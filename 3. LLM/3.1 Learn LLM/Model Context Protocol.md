@@ -1,14 +1,10 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/llm/model-context-protocol/","noteIcon":"","created":"2025-04-15T14:11:19.587-04:00"}
----
-
 https://modelcontextprotocol.io/introduction
 
 
 Tester here. 
 I recently encountered the Model Context Protocol through a podcast. I forgot the name of the podcast, but it sounded like MCP has amazing capabilities and can interact with the localhost—unlike most LLMs, which are typically isolated from the local environment. Isn't that amazing? This could solve so many headaches... but at the same time, it introduces a range of new challenges. Before I take any action, I need to understand what MCP is—otherwise, I'll remain a ScriptKiddie... forever.
 
-Once again, there is no better methodology than systems engineering to break a big concept down into something I can easily understand. Just like how I explain [[../../0. Clouds/0.1. Learn Cloud/0.1.1. General/0.1.1.1. Clouds\|0. Clouds]], I am going to use a systems engineering approach to understand MCP.
+Once again, there is no better methodology than systems engineering to break a big concept down into something I can easily understand. Just like how I explain [0. Clouds](<../../0. Clouds/0.1. Learn Cloud/0.1.1. General/0.1.1.1. Clouds.md>), I am going to use a systems engineering approach to understand MCP.
 
 # 1. System Context
 

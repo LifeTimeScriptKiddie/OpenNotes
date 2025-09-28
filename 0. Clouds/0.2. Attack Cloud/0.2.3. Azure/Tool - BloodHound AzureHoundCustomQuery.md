@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-blood-hound-azure-hound-custom-query/","noteIcon":"","created":"2025-04-15T14:11:19.596-04:00"}
----
-
-
-
-
-
 # Collection of custom BloodHound queries
 
 https://github.com/LuemmelSec/Custom-BloodHound-Queries

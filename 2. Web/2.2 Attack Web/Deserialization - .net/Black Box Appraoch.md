@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/deserialization-net/black-box-appraoch/","noteIcon":"","created":"2025-04-15T14:11:19.601-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Black Box Testing Examples:
 
 1. **Identifying Input Points:**

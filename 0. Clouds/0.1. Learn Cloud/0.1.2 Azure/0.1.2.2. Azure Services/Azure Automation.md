@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-automation/","noteIcon":"","created":"2025-04-15T14:11:19.585-04:00"}
----
-
-
-
-
-
 # 1. What is Automation?
 https://learn.microsoft.com/en-us/azure/automation/overview
 

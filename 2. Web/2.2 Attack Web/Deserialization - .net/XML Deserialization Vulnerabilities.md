@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/deserialization-net/xml-deserialization-vulnerabilities/","noteIcon":"","created":"2025-04-15T14:11:19.602-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## How to Spot XML Serialization/Deserialization 
 
 

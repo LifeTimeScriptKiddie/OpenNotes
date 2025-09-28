@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1-windows-basic/windows-user-rights/","noteIcon":"","created":"2025-04-15T14:11:19.618-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/user-rights-assignment
 
 

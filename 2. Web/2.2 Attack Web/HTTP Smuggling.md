@@ -1,10 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/http-smuggling/","tags":["web"],"noteIcon":"","created":"2025-04-15T14:11:19.603-04:00"}
----
-
-
-
-
 ###  HTTP Request Smuggling Attack Methods
 
 | **Attack Type**        | **Proxy Behavior**                   | **Backend Behavior**                                                          | **Key Header Used**              | **Test/Detect Steps**                                                                                                  | **Exploit Steps**                                                             | **Impact**                                  |

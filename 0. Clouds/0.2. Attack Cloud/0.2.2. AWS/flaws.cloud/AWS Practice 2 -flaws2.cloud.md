@@ -1,28 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/aws/flaws-cloud/aws-practice-2-flaws2-cloud/","noteIcon":"","created":"2025-04-15T14:11:19.593-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Level 1 
 Catch with burp, follow the traffic and go to the below page
 ```

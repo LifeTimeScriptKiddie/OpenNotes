@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ```mermaid
 flowchart LR
     subgraph Phase1["User / Device"]

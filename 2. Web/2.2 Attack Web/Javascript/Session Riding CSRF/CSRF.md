@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/javascript/session-riding-csrf/csrf/","noteIcon":"","created":"2025-04-15T14:11:19.606-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://owasp.org/www-community/attacks/csrf
 
 https://medium.com/@alireubenstone/the-session-ride-of-your-life-1494324db06d

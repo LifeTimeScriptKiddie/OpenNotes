@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/microsoft-graph/","noteIcon":"","created":"2025-04-15T14:11:19.586-04:00"}
----
-
-
-
-
-
 https://learn.microsoft.com/en-us/graph/overview
 https://learn.microsoft.com/en-us/graph/use-the-api
 https://jaapwesselius.com/tag/graph-api/

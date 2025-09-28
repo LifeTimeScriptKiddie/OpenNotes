@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/built-in-permissions/","noteIcon":"","created":"2025-04-15T14:11:19.583-04:00"}
----
-
-
-
-
-
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#all-roles
 
 >In Microsoft Entra ID, if another administrator or non-administrator needs to manage Microsoft Entra resources, you assign them a Microsoft Entra role that provides the permissions they need.

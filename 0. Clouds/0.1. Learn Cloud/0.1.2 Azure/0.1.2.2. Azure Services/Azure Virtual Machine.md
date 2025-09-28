@@ -1,6 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-virtual-machine/","noteIcon":"","created":"2025-04-15T14:11:19.586-04:00"}
----
 We can access VM via azure portal. 
 ![](https://i.imgur.com/qDn4qG8.png)
 

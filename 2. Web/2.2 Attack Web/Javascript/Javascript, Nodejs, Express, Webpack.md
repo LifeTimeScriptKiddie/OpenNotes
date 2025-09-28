@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/javascript/javascript-nodejs-express-webpack/","noteIcon":"","created":"2025-04-15T14:11:19.605-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Javascript dangerous functions.
 
 | Function             | Description                                                                                      | Potential Risks                                 |

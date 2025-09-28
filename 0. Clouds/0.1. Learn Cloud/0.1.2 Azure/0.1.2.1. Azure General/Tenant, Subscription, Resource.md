@@ -1,10 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/tenant-subscription-resource/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
 # 1. Tenant
 
 https://www.devopsschool.com/blog/understanding-tenants-subscriptions-regions-and-geographies-in-azure/

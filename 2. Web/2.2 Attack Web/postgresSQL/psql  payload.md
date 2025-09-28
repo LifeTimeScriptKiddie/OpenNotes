@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/psql-payload/","noteIcon":"","created":"2025-04-15T14:11:19.611-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # psql execution
 ```
 psql -p 15432 -U postgres -d amdb  ; `appmanager`

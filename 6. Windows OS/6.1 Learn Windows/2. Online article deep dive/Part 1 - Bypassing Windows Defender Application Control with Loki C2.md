@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/2-online-article-deep-dive/part-1-bypassing-windows-defender-application-control-with-loki-c2/","noteIcon":"","created":"2025-04-15T14:11:19.623-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 0. Tester here
 
 While I was exploring ways to remain survivable during the initial drop, I came across an interesting article on LinkedIn. The author kindly asked for the opinion of a newbie, which motivated me to read and dive deeper. I have tremendous appreciation for those of you leading this field.
@@ -150,7 +131,7 @@ As mentioned in Bobby's article,[ Microsoft has published a block list](https://
 It is ultimately up to an organization’s discretion to implement these recommendations. This article leads me to broader questions about layered defense mechanisms in Windows.
 
 For now, I will mark this as a future assignment and continue with the article.  
-[[../1a. Windows Defense Mechanism/0. Windows defense mechanism\|0. Windows defense mechanism]]
+[0. Windows defense mechanism](<../1a. Windows Defense Mechanism/0. Windows defense mechanism.md>)
 
 ---
 
@@ -232,15 +213,15 @@ Okay, I think I have the basic foundational knowledge to continue. Oh, wait—on
 
 Fortunately, not long ago I was exploring Windows applications, so I don't need to revisit that for the sake of time. My study notes regarding traditional Windows binaries are here.
 
-[[../1. Windows Basic/1. Portable Executable Structure\|1. Portable Executable Structure]]
-[[../1. Windows Basic/2. From PE to Memory\|2. From PE to Memory]]
-[[../1. Windows Basic/3. Flow of System Calls - ntdll.dll, kernel32.dll\|3. Flow of System Calls - ntdll.dll, kernel32.dll]]
-[[../1. Windows Basic/4. Win32 API and Windows Native API\|4. Win32 API and Windows Native API]]
-[[../1. Windows Basic/4a. NTDLL.DLL - Overview and Functionality\|4a. NTDLL.DLL - Overview and Functionality]]
-[[../1. Windows Basic/5. Syscalls Flow\|5. Syscalls Flow]]
-[[../1. Windows Basic/5a. Syscalls Deep dive\|5a. Syscalls Deep dive]]
-[[../1. Windows Basic/5b. From Memory - PEB_TEB\|5b. From Memory - PEB_TEB]]
-[[../1. Windows Basic/6. Execution\|6. Execution]]
+[1. Portable Executable Structure](<../1. Windows Basic/1. Portable Executable Structure.md>)
+[2. From PE to Memory](<../1. Windows Basic/2. From PE to Memory.md>)
+[3. Flow of System Calls - ntdll.dll, kernel32.dll](<../1. Windows Basic/3. Flow of System Calls - ntdll.dll, kernel32.dll.md>)
+[4. Win32 API and Windows Native API](<../1. Windows Basic/4. Win32 API and Windows Native API.md>)
+[4a. NTDLL.DLL - Overview and Functionality](<../1. Windows Basic/4a. NTDLL.DLL - Overview and Functionality.md>)
+[5. Syscalls Flow](<../1. Windows Basic/5. Syscalls Flow.md>)
+[5a. Syscalls Deep dive](<../1. Windows Basic/5a. Syscalls Deep dive.md>)
+[5b. From Memory - PEB_TEB](<../1. Windows Basic/5b. From Memory - PEB_TEB.md>)
+[6. Execution](<../1. Windows Basic/6. Execution.md>)
 
 
 

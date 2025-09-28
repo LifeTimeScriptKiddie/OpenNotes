@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/learn-programming/learn-rust/rust-cross-compilation-guide-linux-to-windows/","noteIcon":"","created":"2025-04-15T14:11:19.625-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1. Install Rust Windows Target in Ubuntu (WSL/Linux)
 To compile Rust programs on **Ubuntu (or WSL) for Windows**, install the **Windows target**:
 ```bash

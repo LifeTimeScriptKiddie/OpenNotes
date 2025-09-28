@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 A fast python package installer and resolver in Rust. 
 Aims to replace pip, pip-tools, and virtualenv.
 

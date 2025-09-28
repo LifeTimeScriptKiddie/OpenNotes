@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/iam/how-does-a-user-authenticate-to-the-cloud/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
-
-
 According to[Jaap Wesselius](https://jaapwesselius.com/2020/01/02/implementing-active-directory-federation-services-step-by-step/)), 
 
 >In Office 365 there are multiple ways for users to authenticate, and this is related to the type of identity being used:

@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/debugger-maria/","noteIcon":"","created":"2025-04-15T14:11:19.600-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 /etc/mysql/my.cnf
 sudo nano /etc/mysql/my.cnf

@@ -1,10 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-api-management/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
 [The official website indicates](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) the following: 
 
 >Azure API Management is a hybrid, multicloud management platform for APIs across all environments. As a platform-as-a-service, API Management supports the complete API lifecycle.

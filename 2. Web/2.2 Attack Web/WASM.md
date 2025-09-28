@@ -1,7 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/wasm/","noteIcon":"","created":"2025-04-15T14:11:19.610-04:00"}
----
-
 Change to a readable format
 ```
 wasm2wat file.wasm -o file.wat

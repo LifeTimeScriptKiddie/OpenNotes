@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/publish-stuff/publish-free/","noteIcon":"","created":"2025-04-15T14:11:19.625-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 I’ve always thought about developing my own website to record my work and share it with the community. Why not? My requirements were simple: Free and simple.
 
 Like many others, I started with GitHub. But then, guess what? I love GitHub, but I wanted a little more than just the typical GitHub setup. While doing some research, I came across Digital Garden Docs. So, here, I want to cover a bit more about how I did it and how easy it can be.
@@ -145,7 +125,7 @@ You will need to create the user folder.
 
 
 # 7. Resources
-All resources I used are here. [[Digital Garden Resources\|../Digital Garden Resources]]
+All resources I used are here. [../Digital Garden Resources](<Digital Garden Resources.md>)
 
 
 

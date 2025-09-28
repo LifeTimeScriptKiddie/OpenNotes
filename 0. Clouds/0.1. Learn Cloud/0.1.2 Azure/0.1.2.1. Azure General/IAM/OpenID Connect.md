@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/iam/open-id-connect/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
-
-
 # 1 OpenID Connect
 
 https://learn.microsoft.com/en-us/entra/identity-platform/v2-protocols-oidc

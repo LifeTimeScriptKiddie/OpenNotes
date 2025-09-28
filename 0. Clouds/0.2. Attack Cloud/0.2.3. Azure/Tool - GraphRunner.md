@@ -1,13 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-graph-runner/","noteIcon":"","created":"2025-04-15T14:11:19.596-04:00"}
----
-
-
-
-
-
-
-
 # 4. Tools
 # 4.1 GraphRunner - Black Hill
 According to Black Hill, GraphRunner is a post exploitation tool to get information regarding Graph API. [Video](https://www.youtube.com/watch?v=o29jzC3deS0)
@@ -19,7 +9,7 @@ The github repository: [GraphRunner](https://github.com/dafthack/GraphRunner/)
 
 If you don't know where to start, `List-GraphRunnerModules` is a good start.
 
-The best examples are here. [[PwnedLabs/4. Loot Exchange, Teams and SharePoint with GraphRunner\|../PwnedLabs/4. Loot Exchange, Teams and SharePoint with GraphRunner]]
+The best examples are here. [../PwnedLabs/4. Loot Exchange, Teams and SharePoint with GraphRunner](<PwnedLabs/4. Loot Exchange, Teams and SharePoint with GraphRunner.md>)
 
 
 

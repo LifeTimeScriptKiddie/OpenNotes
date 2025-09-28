@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/mysql/collation-my-sql/","noteIcon":"","created":"2025-04-15T14:11:19.606-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Find out the collation of the columns in the __global_search table. 
 Check for `utf8mb4_general_ci`
 

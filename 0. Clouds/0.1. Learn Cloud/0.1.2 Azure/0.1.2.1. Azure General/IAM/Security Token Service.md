@@ -1,16 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/iam/security-token-service/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
-
-
-
-
-
-
 # 1. What is STS?
 
 [Navya Canumalla](https://stackoverflow.com/questions/45174728/what-does-sts-mean-in-the-context-of-azure-ad-b2c)
@@ -85,7 +72,7 @@ Also from [Vitaly Lyamin, an engineer with the SharePoint Developer Support team
 > Microsoft Online provides a way to discover the custom Security token service (STS) authentication URL via the “GetUserRealm.srf” endpoint
 
 
-See [[../../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/6. Azure Recon to Foothold and Profit#1. Does the company use Azure?\|../../PwnedLabs/6. Azure Recon to Foothold and Profit#1. Does the company use Azure?]]
+See [../../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/6. Azure Recon to Foothold and Profit#1. Does the company use Azure?|../../PwnedLabs/6. Azure Recon to Foothold and Profit#1. Does the company use Azure?](<../../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/6. Azure Recon to Foothold and Profit.md#1-does-the-company-use-azurepwnedlabs6-azure-recon-to-foothold-and-profit1-does-the-company-use-azure>)
 for an example. 
 
 ### 2.3.1 Understand getuserrealm Output

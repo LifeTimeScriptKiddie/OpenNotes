@@ -1,9 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tools-password-spray/","noteIcon":"","created":"2025-04-15T14:11:19.597-04:00"}
----
-
-
-
 Username Enum
  https://github.com/gremwell/o365enum/blob/master/o365enum.py
 
@@ -23,6 +17,6 @@ https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/PasswordSpra
 https://github.com/0xZDH/Omnispray
 
 https://github.com/0xZDH/o365spray
-Use [[../../../999. Stuff/Learn Programming/Learn Python/Venv\|Venv]] 
+Use [Venv](<../../../999. Stuff/Learn Programming/Learn Python/Venv.md>) 
 
 https://github.com/Flangvik/TeamFiltration

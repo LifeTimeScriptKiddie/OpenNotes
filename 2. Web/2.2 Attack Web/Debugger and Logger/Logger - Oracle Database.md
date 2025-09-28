@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/logger-oracle-database/","noteIcon":"","created":"2025-04-15T14:11:19.600-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Oracle Database
 
 1. **Edit the Oracle initialization parameter file**:

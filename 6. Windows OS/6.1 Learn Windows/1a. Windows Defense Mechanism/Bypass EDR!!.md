@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1a-windows-defense-mechanism/bypass-edr/","noteIcon":"","created":"2025-04-15T14:11:19.622-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 I recently had a chance to get access to a windows 10 laptop system. While this was one of the unique opportunity to learn, I had some hard time bypassing Windows Defender and Symantec End Point. 
 
 

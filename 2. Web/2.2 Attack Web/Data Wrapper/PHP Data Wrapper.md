@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/data-wrapper/php-data-wrapper/","noteIcon":"","created":"2025-04-15T14:11:19.598-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **1. PHP Wrappers Leading to RCE**
 
 PHP wrappers are stream wrappers that provide access to various protocols and encapsulate operations on them. Misuse or improper validation when using these wrappers can lead to security vulnerabilities, including RCE.

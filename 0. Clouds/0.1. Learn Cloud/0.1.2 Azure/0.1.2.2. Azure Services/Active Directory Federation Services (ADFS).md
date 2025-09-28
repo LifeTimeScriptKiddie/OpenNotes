@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/active-directory-federation-services-adfs/","noteIcon":"","created":"2025-04-15T14:11:19.584-04:00"}
----
-
-
-
-
-
 [Active Directory Federation Service (AD FS) enables Federated Identity and Access Management by securely sharing digital identity and entitlements rights across security and enterprise boundaries.](https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/ad-fs-overview). 
 
 [Jaap Wesselius](https://jaapwesselius.com/2020/01/02/implementing-active-directory-federation-services-step-by-step/) has a great write up regarding how to setup ADFS services. 

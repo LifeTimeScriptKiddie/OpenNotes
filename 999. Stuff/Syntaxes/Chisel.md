@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 ## **Chisel Forward Proxy – Full Notes**
 
 

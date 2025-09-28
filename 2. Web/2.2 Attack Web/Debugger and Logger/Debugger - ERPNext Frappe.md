@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/debugger-erp-next-frappe/","noteIcon":"","created":"2025-04-15T14:11:19.599-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. **SMTP Server Setup**:
 ==why?== 
 To send emails to bypass the password reset functionality. 

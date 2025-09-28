@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-key-vault/","noteIcon":"","created":"2025-04-15T14:11:19.585-04:00"}
----
-
-
-
-
-
-
 # 1.  Key types!
 https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management-choose
 
@@ -84,4 +75,4 @@ az keyvault secret download  --vault-name <vault-Name> --name <keyname> --file <
 ```
 
 
-Good examples are located [[../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/5. Unmask Privileged Access in Azure\|../PwnedLabs/5. Unmask Privileged Access in Azure]]
+Good examples are located [../PwnedLabs/5. Unmask Privileged Access in Azure](<../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/5. Unmask Privileged Access in Azure.md>)

@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/azure-cli-tab-completion/","noteIcon":"","created":"2025-04-15T14:11:19.583-04:00"}
----
-
-
-
-
-
-
 [Tab completion](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli#enable-tab-completion-in-powershell) is a must!
 
 

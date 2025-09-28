@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/javascript/templating-engine/","noteIcon":"","created":"2025-04-15T14:11:19.606-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## What is Templating Engine?
 | Aspect                     | Details                                                                 |
 | -------------------------- | ----------------------------------------------------------------------- |

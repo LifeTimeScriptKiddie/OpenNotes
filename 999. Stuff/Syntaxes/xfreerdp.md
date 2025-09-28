@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ```
 ip=<ip>
 user=<user>

@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/prototype/example/","noteIcon":"","created":"2025-04-15T14:11:19.607-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://www.lanmaster53.com/2023/02/01/prototype-polution-in-flask/
 
 ```python

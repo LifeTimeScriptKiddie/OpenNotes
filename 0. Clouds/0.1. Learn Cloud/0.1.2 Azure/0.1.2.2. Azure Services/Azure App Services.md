@@ -1,10 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-app-services/","noteIcon":"","created":"2025-04-15T14:11:19.585-04:00"}
----
-
-
-
-
 # 1. Overview
 https://learn.microsoft.com/en-us/azure/app-service/overview
 > Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite language, be it .NET, .NET Core, Java, Node.js, PHP, or Python. Applications run and scale with ease on both Windows and Linux-based environments.

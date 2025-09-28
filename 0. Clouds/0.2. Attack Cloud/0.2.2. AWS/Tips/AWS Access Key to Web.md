@@ -1,8 +1,3 @@
----
-dg-publish: true
----
-
-
 ##  Manual AWS Console Login (Federation URL)
 ##  Step-by-Step (Manual URL)
 

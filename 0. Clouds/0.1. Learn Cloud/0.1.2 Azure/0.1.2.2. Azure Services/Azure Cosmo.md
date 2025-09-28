@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![](https://i.imgur.com/FWu0aWR.png)
 
 

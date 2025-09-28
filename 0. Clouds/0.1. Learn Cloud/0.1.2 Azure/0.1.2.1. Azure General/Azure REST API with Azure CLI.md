@@ -1,16 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/azure-rest-api-with-azure-cli/","noteIcon":"","created":"2025-04-15T14:11:19.583-04:00"}
----
-
-
-
-
-
-
-
-
-
-
 ```mermaid
 graph TD
     A[Initial Access: Azure Credentials Found] --> B[Login to Azure using PowerShell Az Module or Azure CLI]

@@ -1,20 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/poc-c-local-execution-arking/","noteIcon":"","created":"2025-04-15T14:11:19.611-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Certainly! Let's break down the code step by step. This code is written in C and is used to define a custom PostgreSQL function.
 
 ### Explanation in Markdown Format

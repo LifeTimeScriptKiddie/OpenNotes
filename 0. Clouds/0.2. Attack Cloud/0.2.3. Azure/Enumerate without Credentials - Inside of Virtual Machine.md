@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/enumerate-without-credentials-inside-of-virtual-machine/","noteIcon":"","created":"2025-04-15T14:11:19.593-04:00"}
----
-
-
-
-
-
 # 1. Check the getuserrealm.srf endpoint for domain information
 
 

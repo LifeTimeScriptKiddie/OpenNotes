@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1-windows-basic/usb-how-does-it-work/","noteIcon":"","created":"2025-04-15T14:11:19.617-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```mermaid
 graph TD
     A[USB Device Plugged In] --> B[Power Supplied]

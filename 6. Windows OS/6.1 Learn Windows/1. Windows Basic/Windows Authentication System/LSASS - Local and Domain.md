@@ -1,9 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1-windows-basic/windows-authentication-system/lsass-local-and-domain/","noteIcon":"","created":"2025-04-15T14:11:19.617-04:00"}
----
-
-
-
 ### 1.0 Local Security Authority Subsystem Service
 LSASS is a process rather than a file. As we can see from `Task Manager`, it runs as SYSTEM.  
 ![](https://i.imgur.com/KLds609.png)

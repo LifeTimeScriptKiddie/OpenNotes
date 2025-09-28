@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/automation/automate-oswe-starting-routine/","noteIcon":"","created":"2025-04-15T14:11:19.623-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
 So while I was browsing reddit, x, substack, etc., I saw a memorable line. The lines goes something like..."if you are repeating a process more than 5 minutes, it is absolutely worth to spend the next five days to automate the process". While I don't recall the exact phrase, I agree 100% and decide to develop a python script to automate the process.  Here is a quick flow chart that is somewhat captures the process.
 ![](https://i.imgur.com/pVqr6OB.png)
 

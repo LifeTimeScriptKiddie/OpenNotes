@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/logger-sq-lite/","noteIcon":"","created":"2025-04-15T14:11:19.601-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### SQLite
 
 For SQLite, logging is typically handled within the application code due to its embedded nature. Here is an example using Python:

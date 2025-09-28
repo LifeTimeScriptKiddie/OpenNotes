@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1a-windows-defense-mechanism/windows-code-integrity-engine/","noteIcon":"","created":"2025-04-15T14:11:19.622-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The **Windows Code Integrity Engine** (CI) is a built-in security component of Windows that enforces code integrity policies. It ensures that only trusted code—signed and approved according to system policies—can execute in both user mode and kernel mode.
 
 ---

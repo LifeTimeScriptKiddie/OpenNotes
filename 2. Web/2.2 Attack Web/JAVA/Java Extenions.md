@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/java/java-extenions/","noteIcon":"","created":"2025-04-15T14:11:19.605-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | File Type | Full Name                      | Primary Use                           | Contents                                                                                                                                                                        | Typical Extension |
 | --------- | ------------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | JAR       | Java Archive                   | Stand-alone applications or libraries | - Java class files<br>- Associated metadata<br>- Resources (text, images)                                                                                                       | .jar              |

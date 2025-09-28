@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-aad-internal/","noteIcon":"","created":"2025-04-15T14:11:19.596-04:00"}
----
-
-
-
-
-
 # Azure AD and Microsoft 365 Kill Chain
 https://aadinternals.com/aadkillchain/
 

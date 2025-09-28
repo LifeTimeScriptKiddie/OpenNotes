@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/sd-ks/","noteIcon":"","created":"2025-04-15T14:11:19.586-04:00"}
----
-
-
-
-
-
 https://azure.github.io/azure-sdk/general_introduction.html
 
 >The collection of client libraries for a single target language, used for accessing Azure services.

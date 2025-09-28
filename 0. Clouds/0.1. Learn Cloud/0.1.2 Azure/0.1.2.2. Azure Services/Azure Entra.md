@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-entra/","noteIcon":"","created":"2025-04-15T14:11:19.585-04:00"}
----
-
-
-
-
-
 # 1. Entra ID (Previously Azure Active Directory - AAD)
 
 [Reddit thread about Microsoft ID and AD confusion](https://www.reddit.com/r/AZURE/comments/1aqjkr6/confusion_about_microsoft_id_and_ad/)
@@ -274,7 +266,7 @@ Administrative units can be managed through the following interface:
 According to [SysCloud's blog on Azure Administrative Units](https://blog.syscloud.com/azure-administrative-units):
 > You can assign users to an Azure AD role with a scope that's limited to one or more administrative units. In this way, administrative units provide more granular administrative control within Azure Active Directory.
 
-The image below is an example from pwnedlab.io [[../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/8. Execute Azure Credential Shuffle to Achieve Objectives\|8. Execute Azure Credential Shuffle to Achieve Objectives]]. It’s common to see the term "manage" in the description column. One of the main benefits of **Entra ID Administrative Units** is that they allow an organization to delegate admin permissions to other users, devices, or groups, with restrictions to specific organizational units, regions, departments, etc.
+The image below is an example from pwnedlab.io [8. Execute Azure Credential Shuffle to Achieve Objectives](<../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/8. Execute Azure Credential Shuffle to Achieve Objectives.md>). It’s common to see the term "manage" in the description column. One of the main benefits of **Entra ID Administrative Units** is that they allow an organization to delegate admin permissions to other users, devices, or groups, with restrictions to specific organizational units, regions, departments, etc.
 
 It seems to me that **Administrative Units** are a way to delegate the management of distributed resources.
 

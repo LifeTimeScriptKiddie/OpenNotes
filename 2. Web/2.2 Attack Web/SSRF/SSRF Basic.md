@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/ssrf/ssrf-basic/","noteIcon":"","created":"2025-04-15T14:11:19.608-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Server-Side Request Forgery (SSRF) occurs when an attacker can force an application or server to request data or a resource. Since the request is originating at the server, it might be able to access data that the attacker cannot access directly.
 
 ![](../../../../unpublished/OSWE/OSWE_round1/10.%20APIGATEWAY-SSRF/SSRF.canvas)

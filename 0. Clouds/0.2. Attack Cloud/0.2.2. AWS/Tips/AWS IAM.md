@@ -1,27 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/aws/tips/aws-iam/","noteIcon":"","created":"2025-04-15T14:11:19.592-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Manage users and levels of access to the AWS console.
 
 ## Components

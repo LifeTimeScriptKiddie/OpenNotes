@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/javascript/node-js-ejs/","noteIcon":"","created":"2025-04-15T14:11:19.605-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### EJS template
 
 ```javascript

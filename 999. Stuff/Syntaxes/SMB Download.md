@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ```
 sudo apt update && sudo apt install cifs-utils -y
 sudo mkdir -p /mnt/windows_share

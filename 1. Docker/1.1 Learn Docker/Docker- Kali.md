@@ -1,19 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/docker/docker-kali/","noteIcon":"","created":"2025-04-15T14:11:19.586-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Docker Desktop — Kali — Web GUI
 
 ```jsx

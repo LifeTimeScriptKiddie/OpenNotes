@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-az-sub-enum-subdomain-enum/","noteIcon":"","created":"2025-04-15T14:11:19.596-04:00"}
----
-
-
-
-
-
-
 AzSubEnum
 https://github.com/yuyudhn/AzSubEnum
 

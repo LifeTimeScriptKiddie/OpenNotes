@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/kubernetes/kubernetes/","noteIcon":"","created":"2025-04-15T14:11:19.587-04:00"}
----
-
-
-
-
-
-
 # 1. Intro
 
 **Tester here.**

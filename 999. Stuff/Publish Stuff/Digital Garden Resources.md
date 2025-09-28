@@ -1,27 +1,3 @@
----
-{"dg-publish":true,"permalink":"/publish-stuff/digital-garden-resources/","noteIcon":"","created":"2025-04-15T14:11:19.625-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/
 
 https://github.com/uroybd/topobon/tree/main

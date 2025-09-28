@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/json-web-tokens/","noteIcon":"","created":"2025-04-15T14:11:19.605-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 1. What is JWT?
 [JSON web token (JWT), pronounced "jot", is an open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. Again, JWT is a standard, meaning that all JWTs are tokens, but not all tokens are JWTs.](https://auth0.com/docs/secure/tokens/json-web-tokens
 

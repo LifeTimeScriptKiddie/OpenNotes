@@ -1,21 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/psql-poc-c-reverseshell/","noteIcon":"","created":"2025-04-15T14:11:19.611-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include "postgres.h"

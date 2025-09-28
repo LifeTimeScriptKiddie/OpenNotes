@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 | Method               | Materials Needed                                    | Kid Role                  | Notes/Safety                                                    |
 | -------------------- | --------------------------------------------------- | ------------------------- | --------------------------------------------------------------- |
 | Solar Still          | Bowl, small cup, plastic wrap, rock, sun            | Set up still, observe     | Uses evaporation-condensation. Great for sunny days.            |

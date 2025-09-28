@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/sop-cors/sop-and-cors/","noteIcon":"","created":"2025-04-15T14:11:19.608-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Visual representation
 ![](https://i.imgur.com/POu98qr.png)
 

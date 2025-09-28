@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/azure-powershell/","noteIcon":"","created":"2025-04-15T14:11:19.583-04:00"}
----
-
-
-
-
-
 https://learn.microsoft.com/en-us/powershell/azure/?view=azps-12.3.0
 
 

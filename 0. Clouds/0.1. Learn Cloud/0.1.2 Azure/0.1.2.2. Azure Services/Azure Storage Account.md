@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-storage-account/","noteIcon":"","created":"2025-04-15T14:11:19.586-04:00"}
----
-
-
-
-
-
 # 1. What is Azure Storage ?
 >An Azure Storage Account is a unique namespace that provides a layer of abstraction over Azure Storage services, allowing us to manage and segregate our storage resources.
 
@@ -98,7 +90,7 @@ az storage account show --name <databaseName> --resource-group <resourceGroupNam
 
 Once Again, there are four major types of storage. 
 
-[[Azure Storage Account\|../Azure Services/Azure Storage Account]]
+../Azure Services/Azure Storage Account
 
 ```
 az storage table list --account-name custdatabase --auth-mode login
@@ -143,6 +135,6 @@ In Blob, versioning matter.
 https://learn.microsoft.com/en-us/azure/storage/blobs/versioning-overview
 >You can enable Blob storage versioning to automatically maintain previous versions of an object. When blob versioning is enabled, you can access earlier versions of a blob to recover your data if it's modified or deleted.
 
-More on. [[../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/1. Azure Blob Container to Initial Access|1. Azure Blob Container to Initial Access]]
+More on. [1. Azure Blob Container to Initial Access](<../../../0.2. Attack Cloud/0.2.3. Azure/PwnedLabs/1. Azure Blob Container to Initial Access.md>)
 
 

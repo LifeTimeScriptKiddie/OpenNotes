@@ -1,19 +1,3 @@
----
-{"dg-publish":true,"permalink":"/publish-stuff/digital-garden-and-github-issue/","noteIcon":"","created":"2025-04-15T14:11:19.625-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1. Understand the Core Issue
 
 - **Obsidian Digital Garden** often makes its own commits/pushes directly to the GitHub repository behind the scenes.  

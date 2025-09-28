@@ -1,14 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/enumerate-with-credentials/","noteIcon":"","created":"2025-04-15T14:11:19.593-04:00"}
----
-
-
-
-
-
-
-
-
 ```mermaid
 graph TD
     A[Initial Access: Azure Credentials Found] --> B[Login to Azure using PowerShell Az Module or Azure CLI]

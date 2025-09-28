@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-services/azure-sql/","noteIcon":"","created":"2025-04-15T14:11:19.585-04:00"}
----
-
-
-
-
-
-
 https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-sql
 
 ```mermaid

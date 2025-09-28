@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/debugger-java-vscode/","noteIcon":"","created":"2025-04-15T14:11:19.599-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Remote Debugging with Visual Studio Code (Java Application)
 1. **Install Visual Studio Code and required extensions:**
    ```bash

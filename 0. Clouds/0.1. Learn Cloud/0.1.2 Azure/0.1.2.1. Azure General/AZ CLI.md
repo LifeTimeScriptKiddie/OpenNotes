@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/azure/azure-general/az-cli/","noteIcon":"","created":"2025-04-15T14:11:19.583-04:00"}
----
-
-
-
-
-
-
 # 1. AZ CLI Ref
 https://learn.microsoft.com/en-us/cli/azure/reference-docs-index
 https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest

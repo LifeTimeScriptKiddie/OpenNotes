@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/docker/","noteIcon":"","created":"2025-04-15T14:11:19.602-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Basic Commands
 ```zsh
 docker version #Get version of docker client, API, engine, containerd, runc, docker-init

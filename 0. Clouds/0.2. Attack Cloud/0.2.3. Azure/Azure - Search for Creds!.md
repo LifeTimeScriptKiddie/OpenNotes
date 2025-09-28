@@ -1,9 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/1-azure-search-creds/","noteIcon":"","created":"2025-04-15T14:11:19.593-04:00"}
----
-
-
-
 ## ** Azure - Where Credentials Can Be Found**
 
 | **Service**                           | **Credential Type**       | **Location**                                            | **Extraction Method**                    |

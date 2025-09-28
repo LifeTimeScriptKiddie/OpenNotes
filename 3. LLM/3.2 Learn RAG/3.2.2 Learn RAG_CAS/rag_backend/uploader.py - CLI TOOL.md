@@ -1,8 +1,3 @@
----
-dg-publish: true
----
-
-
 # **uploader.py Breakdown**
 
   

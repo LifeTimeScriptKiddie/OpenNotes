@@ -1,19 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/remote-execution-py/","noteIcon":"","created":"2025-04-15T14:11:19.611-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 import requests, sys
 requests.packages.urllib3.disable_warnings()

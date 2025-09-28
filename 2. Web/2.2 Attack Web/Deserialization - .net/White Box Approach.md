@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/deserialization-net/white-box-approach/","noteIcon":"","created":"2025-04-15T14:11:19.602-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Sure, let's tie these concepts to practical examples for both white box and black box testing scenarios.
 
 ### White Box Testing Examples:

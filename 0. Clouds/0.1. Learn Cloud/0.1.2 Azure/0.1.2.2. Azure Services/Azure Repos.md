@@ -1,8 +1,3 @@
----
-dg-publish: true
----
-
-
 ## GitHub vs. Azure Repos
 
 One of the first elements that we will see after entering the Azure Repos project website ([Azure Repos](https://azure.microsoft.com/pl-pl/services/devops/repos)) is a link to GitHub, and it is not a bug at all. Microsoft rightly develops these two projects as entirely separate since they’re targeting different user groups.

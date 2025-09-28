@@ -1,8 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/llm/resources/","noteIcon":"","created":"2025-04-15T14:11:19.587-04:00"}
----
-
-
 https://github.com/her3ticAVI/Exploiting-A.I.-Class
 
 

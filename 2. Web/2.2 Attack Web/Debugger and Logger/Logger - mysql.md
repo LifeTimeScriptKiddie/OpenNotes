@@ -1,23 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/logger-mysql/","noteIcon":"","created":"2025-04-15T14:11:19.601-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 /etc/mysql/my.cnf
 sudo vim /etc/mysql/my.cnf

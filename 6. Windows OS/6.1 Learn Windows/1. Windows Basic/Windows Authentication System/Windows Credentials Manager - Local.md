@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1-windows-basic/windows-authentication-system/windows-credentials-manager-local/","noteIcon":"","created":"2025-04-15T14:11:19.617-04:00"}
----
-
-
-
-
-
-
 Windows Credentials Manager
 
 The [Windows Credentials Manager](https://learn.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication#windows-vault-and-credential-manager) lets users store credentials for systems and websites in the secure Windows Vault.

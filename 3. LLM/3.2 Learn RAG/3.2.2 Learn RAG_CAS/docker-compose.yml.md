@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # **🐳 Docker Compose Overview**
 
   

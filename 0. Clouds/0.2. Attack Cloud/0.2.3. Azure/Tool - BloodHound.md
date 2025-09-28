@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-blood-hound/","noteIcon":"","created":"2025-04-15T14:11:19.596-04:00"}
----
-
-
-
-
-
 Start the dataserver!
 ```
 sudo neo4j console
@@ -49,4 +41,4 @@ az login -u Jose.Rodriguez@megabigtech.com -p Bigt3ch123!
 ```
 
 # 3. Custom Query
-[[Tool - BloodHound AzureHoundCustomQuery\|Tool - BloodHound AzureHoundCustomQuery]]
+[Tool - BloodHound AzureHoundCustomQuery](<Tool - BloodHound AzureHoundCustomQuery.md>)

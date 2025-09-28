@@ -1,25 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/waf/","noteIcon":"","created":"2025-04-15T14:11:19.609-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # WAF
 https://www.f5.com/glossary/web-application-firewall-waf
 

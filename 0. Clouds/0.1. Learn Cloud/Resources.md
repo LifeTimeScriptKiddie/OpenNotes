@@ -1,12 +1,3 @@
----
-{"dg-publish":true,"permalink":"/0-learn-like-a-systems-engineer/clouds/0-resources/","noteIcon":"","created":"2025-04-15T14:11:19.582-04:00"}
----
-
-
-
-
-
-
 https://github.com/BishopFox/cloudfox
 https://www.nojones.net/cloud-security-resources
 

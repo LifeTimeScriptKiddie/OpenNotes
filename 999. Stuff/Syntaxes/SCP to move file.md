@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 ```
 scp user@remote:/path/to/file /local/destination/
 ```

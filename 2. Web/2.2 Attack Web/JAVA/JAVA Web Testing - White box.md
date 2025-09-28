@@ -1,26 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/java/java-web-testing-white-box/","noteIcon":"","created":"2025-04-15T14:11:19.604-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Investigating Java Web Application  
 
 ## 1. Application Structure
@@ -31,7 +8,7 @@
 - Examine the `WEB-INF` folder structure
 	- Examine web.xml --> Maps URL and servlet. 
 	- Servlet --> 
-	- ![[../Attachments/Pasted image 20240703151954.png\|../Attachments/Pasted image 20240703151954.png]]
+	- !../Attachments/Pasted image 20240703151954.png
 	- https://en.wikipedia.org/wiki/Jakarta_Servlet
 
 ## 2. Configuration Files

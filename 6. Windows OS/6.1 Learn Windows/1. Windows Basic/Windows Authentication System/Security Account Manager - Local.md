@@ -1,11 +1,3 @@
----
-{"dg-publish":true,"permalink":"/attack-computer/attack-windows/1-windows-basic/windows-authentication-system/security-account-manager-local/","noteIcon":"","created":"2025-04-15T14:11:19.617-04:00"}
----
-
-
-
-
-
 ### 1.2 Security Account Manager
 
 The [Security Account Manager (SAM)](https://en.wikipedia.org/wiki/Security_Account_Manager) is a database file that stores users' passwords. Typically, SAM is used for local accounts, and enumerating it requires SYSTEM-level access.

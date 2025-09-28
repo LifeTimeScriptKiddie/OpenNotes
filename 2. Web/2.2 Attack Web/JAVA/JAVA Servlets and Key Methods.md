@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/java/java-servlets-and-key-methods/","noteIcon":"","created":"2025-04-15T14:11:19.604-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Java Servlets and Key Methods to Review
 
 1. HttpServlet

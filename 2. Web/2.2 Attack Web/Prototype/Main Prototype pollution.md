@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/prototype/main-prototype-pollution/","noteIcon":"","created":"2025-04-15T14:11:19.608-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 To understand prototype pollution, a basic understanding of JavaScript is required. Thanks to PortSwigger. 
 
 
@@ -180,7 +159,7 @@ The `new` operator lets developers create an instance of a user-defined object t
 When a function is called with the `new` keyword, the function will be used as a constructor. new will do the following things:
 	Creates a blank, plain JavaScript object. For convenience, let's call it newInstance.
 	
-	Points newInstance's [[Prototype\|Prototype]] to the constructor function's prototype property, if the prototype is an Object. 
+	Points newInstance's Prototype to the constructor function's prototype property, if the prototype is an Object. 
 
 
 

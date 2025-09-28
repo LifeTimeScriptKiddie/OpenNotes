@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/postgres-sql/psql-payload-copy-from-copy-to/","noteIcon":"","created":"2025-04-15T14:11:19.610-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 COPY (SELECT 'test') to '/tmp/test.txt';
 

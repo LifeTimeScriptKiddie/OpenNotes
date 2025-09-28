@@ -1,13 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/clouds/azure/tool-road-recon/","noteIcon":"","created":"2025-04-15T14:11:19.597-04:00"}
----
-
-
-
-
-
-
-
 So roadrecon didn't work on my host. I had some compatibility issue with legacy code. Instead installing roadrecon on my host, I installed in virtual environment. 
 
 

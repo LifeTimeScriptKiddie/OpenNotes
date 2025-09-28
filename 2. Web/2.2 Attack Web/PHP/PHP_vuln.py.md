@@ -1,22 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/php/php-vuln-py/","noteIcon":"","created":"2025-04-15T14:11:19.607-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 import os
 import re

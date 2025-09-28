@@ -1,24 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/debugger-and-logger/debugger-docker-and-node-js/","noteIcon":"","created":"2025-04-15T14:11:19.599-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Remote Debugging with Docker and Node.js
 1. **Update `docker-compose.yml` to enable debugging:**
    ```yaml

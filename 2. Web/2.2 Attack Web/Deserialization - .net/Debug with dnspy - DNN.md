@@ -1,26 +1,3 @@
----
-{"dg-publish":true,"permalink":"/1-hack-like-a-script-kiddie/web/deserialization-net/debug-with-dnspy-dnn/","noteIcon":"","created":"2025-04-15T14:11:19.601-04:00"}
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
 # 1. Enable Debugger - dnn offsec
  
   To reduce the amount of optimization performed at runtime, we can change that attribute.

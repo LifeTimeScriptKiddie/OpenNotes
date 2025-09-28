@@ -1,8 +1,3 @@
----
-dg-publish: true
----
-
-
 | Method                    | Materials Needed                                     | Kid Role                  | Notes/Safety                                       |
 | ------------------------- | ---------------------------------------------------- | ------------------------- | -------------------------------------------------- |
 | Magnifying Glass & Sun    | Magnifying glass, dry leaves/paper, sunlight         | Hold magnifying glass     | Focus sunlight to a tiny point on tinder. No wind. |
